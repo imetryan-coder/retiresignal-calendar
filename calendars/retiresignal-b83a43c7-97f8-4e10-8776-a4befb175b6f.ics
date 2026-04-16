@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RetireSignal//Advisor Dashboard//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RetireSignal — Client Milestones
+X-WR-CALDESC:Retirement milestone dates for all clients
+X-WR-TIMEZONE:America/Denver
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_55-spouse-1@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Robert & Helen Parr (Helen) — Age 55 Rule
+DESCRIPTION:Penalty-free 401(k) withdrawals if separated from employer at 55+
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P30D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Helen) — Age 55 Rule
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_62-primary-2@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Robert & Helen Parr (Robert) — Early SS Eligible
+DESCRIPTION:Earliest Social Security claiming age
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Robert) — Early SS Eligible
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_65-primary-3@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20300504
+DTEND;VALUE=DATE:20300505
+SUMMARY:Robert & Helen Parr (Robert) — Medicare Eligible
+DESCRIPTION:Part B enrollment window opens 3 months prior to birthday
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Robert) — Medicare Eligible
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_59h-spouse-4@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20301230
+DTEND;VALUE=DATE:20301231
+SUMMARY:Robert & Helen Parr (Helen) — Age 59½
+DESCRIPTION:Penalty-free withdrawals from all retirement accounts
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P30D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Helen) — Age 59½
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_67-primary-5@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20320504
+DTEND;VALUE=DATE:20320505
+SUMMARY:Robert & Helen Parr (Robert) — Full SS Retirement
+DESCRIPTION:Full Retirement Age for Social Security (born 1960+)
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Robert) — Full SS Retirement
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_62-spouse-6@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+SUMMARY:Robert & Helen Parr (Helen) — Early SS Eligible
+DESCRIPTION:Earliest Social Security claiming age
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Helen) — Early SS Eligible
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_70-primary-7@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20350504
+DTEND;VALUE=DATE:20350505
+SUMMARY:Robert & Helen Parr (Robert) — SS Maximum Benefit
+DESCRIPTION:Benefits stop growing — claim by 70 at latest
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Robert) — SS Maximum Benefit
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_65-spouse-8@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20360630
+DTEND;VALUE=DATE:20360701
+SUMMARY:Robert & Helen Parr (Helen) — Medicare Eligible
+DESCRIPTION:Part B enrollment window opens 3 months prior to birthday
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Helen) — Medicare Eligible
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_67-spouse-9@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20380630
+DTEND;VALUE=DATE:20380701
+SUMMARY:Robert & Helen Parr (Helen) — Full SS Retirement
+DESCRIPTION:Full Retirement Age for Social Security (born 1960+)
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Helen) — Full SS Retirement
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_rmd-primary-10@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20400504
+DTEND;VALUE=DATE:20400505
+SUMMARY:Robert & Helen Parr (Robert) — RMD Begins
+DESCRIPTION:Required Minimum Distributions begin (age based on birth year per SECURE 2.0)
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Robert) — RMD Begins
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_70-spouse-11@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20410630
+DTEND;VALUE=DATE:20410701
+SUMMARY:Robert & Helen Parr (Helen) — SS Maximum Benefit
+DESCRIPTION:Benefits stop growing — claim by 70 at latest
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Helen) — SS Maximum Benefit
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:retiresignal-ms-5-age_rmd-spouse-12@retiresignal
+DTSTAMP:20260416T141708Z
+DTSTART;VALUE=DATE:20460630
+DTEND;VALUE=DATE:20460701
+SUMMARY:Robert & Helen Parr (Helen) — RMD Begins
+DESCRIPTION:Required Minimum Distributions begin (age based on birth year per SECURE 2.0)
+CATEGORIES:Retirement Milestone
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P90D
+ACTION:DISPLAY
+DESCRIPTION:Robert & Helen Parr (Helen) — RMD Begins
+END:VALARM
+END:VEVENT
+END:VCALENDAR
